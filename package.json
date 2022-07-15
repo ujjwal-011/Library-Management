@@ -1,0 +1,22 @@
+{
+  "name": "intern_ujjwal_lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ujjwal Srivastava",
+  "license": "ISC",
+  "engines": {
+    "node": "16.15.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "node-fetch": "^2.6.7"
+  },
+  "description": ""
+}

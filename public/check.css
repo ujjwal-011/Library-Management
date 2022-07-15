@@ -1,0 +1,31 @@
+.Form-add{
+    font-weight: bold;
+    padding-left:37%;
+    width: 90%;
+}
+
+.heading{
+    font-weight: 1000;
+    margin-left: 38%;
+    margin-bottom:40px;
+}
+
+
+.btn1{
+margin-left: 18%;
+margin-top: 4%;
+}
+
+.Divv{
+    padding-top: 250px;
+    background-color: #d1d1d1;
+    height: 750px;
+}
+
+.message3, .message4{
+    text-align: center;
+}
+
+/* .result{
+    text-align: center;
+} */
